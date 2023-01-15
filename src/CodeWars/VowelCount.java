@@ -1,6 +1,6 @@
 package CodeWars;
 
-public class vowelCount {
+public class VowelCount {
 
     public static int getCount(String str) {
         char[] vowels = str.toCharArray();

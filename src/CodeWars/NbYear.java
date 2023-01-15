@@ -1,6 +1,6 @@
 package CodeWars;
 
-public class nbYear {
+public class NbYear {
 
     public static int nbYear(int p0, double percent, int aug, int p) {
         int years = 0;

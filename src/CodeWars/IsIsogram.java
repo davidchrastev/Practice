@@ -3,7 +3,7 @@ package CodeWars;
 import java.util.HashSet;
 import java.util.Set;
 
-public class isIsogram {
+public class IsIsogram {
 
     public static boolean  isIsogram(String str) {
         Set<String> checker = new HashSet<>();

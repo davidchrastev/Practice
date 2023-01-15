@@ -1,6 +1,6 @@
 package CodeWars;
 
-public class oddOrEven {
+public class OddOrEven {
 
     public static String oddOrEven (int[] array) {
         if (array.length == 0) {

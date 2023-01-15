@@ -1,6 +1,6 @@
 package CodeWars;
 
-public class isValid {
+public class IsValid {
 
     public static boolean isValid(char[] walk) {
         if (walk.length != 10) {

@@ -1,6 +1,6 @@
 package CodeWars;
 
-public class getMiddle {
+public class GetMiddle {
 
     public static String getMiddle(String word) {
         int length = word.length();
