@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Super Market Queue">
-      <change afterPath="$PROJECT_DIR$/src/CodeWars/Droot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeWars/EqualSidesOfAnArray.java" afterDir="false" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="practice algorithms">
+      <change afterPath="$PROJECT_DIR$/src/CodeWars/AddingBigNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,13 +74,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673802715880</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="practice algorithms">
+      <created>1673859712932</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673859712932</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercise in code wars" />
     <MESSAGE value="Bouncing ball" />
     <MESSAGE value="Super Market Queue" />
-    <option name="LAST_COMMIT_MESSAGE" value="Super Market Queue" />
+    <MESSAGE value="practice algorithms" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice algorithms" />
   </component>
 </project>
