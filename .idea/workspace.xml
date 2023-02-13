@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Basic stairCase">
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/MinMax.java" afterDir="false" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Min and Max Sum of an array">
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/BirthdayCandles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -150,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676280786096</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Min and Max Sum of an array">
+      <created>1676313325024</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1676313325024</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,6 +183,8 @@
     <MESSAGE value="Difference in the primary and the secondary diagonals" />
     <MESSAGE value="SumOfArray (positive, negative, zeros) algorithm" />
     <MESSAGE value="Basic stairCase" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic stairCase" />
+    <MESSAGE value="Min and Max Sum of an array with size 5" />
+    <MESSAGE value="Min and Max Sum of an array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Min and Max Sum of an array" />
   </component>
 </project>
