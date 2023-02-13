@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="CurrencyConverter solution">
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/JavaStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/JavaSubstrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/Substrings.java" afterDir="false" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Practice in HackerRank Anagrams, Palindromes">
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/Diagonals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +95,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675788896319</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Practice in HackerRank">
+      <created>1675875029204</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675875029204</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Practice in HackerRank Anagrams, Palindromes">
+      <created>1675876400912</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675876400912</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +130,24 @@
     <MESSAGE value="practice algorithms" />
     <MESSAGE value="Date and Time solution" />
     <MESSAGE value="CurrencyConverter solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="CurrencyConverter solution" />
+    <MESSAGE value="Practice in HackerRank" />
+    <MESSAGE value="Practice in HackerRank Anagrams, Palindromes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice in HackerRank Anagrams, Palindromes" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerRank/Diagonals.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerRank/Diagonals.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
