@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Min and Max Sum of an array">
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/BirthdayCandles.java" afterDir="false" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Basic solution for Cake Candles">
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/TimeConversion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -157,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676313325024</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Basic solution for Cake Candles">
+      <created>1676313764338</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1676313764338</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +192,7 @@
     <MESSAGE value="Basic stairCase" />
     <MESSAGE value="Min and Max Sum of an array with size 5" />
     <MESSAGE value="Min and Max Sum of an array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Min and Max Sum of an array" />
+    <MESSAGE value="Basic solution for Cake Candles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic solution for Cake Candles" />
   </component>
 </project>
