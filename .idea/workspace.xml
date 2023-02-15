@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Rounding Grades">
-      <change afterPath="$PROJECT_DIR$/src/ApplesAndOranges.java" afterDir="false" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Calculation apples fallen on given target and oranges fallen on given target">
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/KangarooJump.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HackerRank/Random.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRank/Random.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ApplesAndOranges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRank/ApplesAndOranges.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676367263288</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Calculation apples fallen on given target and oranges fallen on given target">
+      <created>1676483240895</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1676483240895</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,6 +239,7 @@
     <MESSAGE value="Time Conversion Basic" />
     <MESSAGE value="Random problem" />
     <MESSAGE value="Rounding Grades" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rounding Grades" />
+    <MESSAGE value="Calculation apples fallen on given target and oranges fallen on given target" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calculation apples fallen on given target and oranges fallen on given target" />
   </component>
 </project>

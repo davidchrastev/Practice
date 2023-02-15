@@ -1,9 +1,8 @@
-import java.util.ArrayList;
+package HackerRank;
+
 import java.util.List;
 
 public class ApplesAndOranges {
-
-
     public static void countApplesAndOranges(int s, int t, int a, int b, List<Integer> apples, List<Integer> oranges) {
 
         int applesInRange = 0;
