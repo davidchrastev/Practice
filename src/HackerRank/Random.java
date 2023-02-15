@@ -21,8 +21,19 @@ public class Random {
         }
 
         int maxDistance = 0;
-        int minDistance = 0;
 
+
+        maxDistance = getMaxDistance(pointsToThrow, indexesOfSafeHouse, maxDistance);
+
+        System.out.println(maxDistance);
+        print(arr);
+
+
+
+    }
+
+    private static int getMaxDistance(int pointsToThrow, int[] indexesOfSafeHouse, int maxDistance) {
+        int minDistance;
         for (int i = 0; i < pointsToThrow; i++) {
             minDistance = Integer.MAX_VALUE;
             for (int j = 0; j < indexesOfSafeHouse.length; j++) {
@@ -39,13 +50,9 @@ public class Random {
                 maxDistance = minDistance;
             }
         }
-
-        System.out.println(maxDistance);
-        print(arr);
-
-
-
+        return maxDistance;
     }
+
     public static void print(char[] arr) {
         for (int i = 0; i <= arr.length - 1; i++) {
             if (i == arr.length - 1) {
@@ -55,4 +62,5 @@ public class Random {
             System.out.print(arr[i] + "-");
         }
     }
+
 }

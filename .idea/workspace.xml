@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Random problem">
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/Grades.java" afterDir="false" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Rounding Grades">
+      <change afterPath="$PROJECT_DIR$/src/ApplesAndOranges.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HackerRank/Random.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRank/Random.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676366185557</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Rounding Grades">
+      <created>1676367263288</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1676367263288</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,6 +231,7 @@
     <MESSAGE value="Basic solution for Cake Candles" />
     <MESSAGE value="Time Conversion Basic" />
     <MESSAGE value="Random problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Random problem" />
+    <MESSAGE value="Rounding Grades" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rounding Grades" />
   </component>
 </project>
