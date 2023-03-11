@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Calculating if two kangaroos meet in a jump">
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/BetweenTwoSets.java" afterDir="false" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="HackerRank">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HackerRank/BetweenTwoSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRank/BetweenTwoSets.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676484215715</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="HackerRank">
+      <created>1676566658241</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1676566658241</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -247,6 +254,7 @@
     <MESSAGE value="Rounding Grades" />
     <MESSAGE value="Calculation apples fallen on given target and oranges fallen on given target" />
     <MESSAGE value="Calculating if two kangaroos meet in a jump" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculating if two kangaroos meet in a jump" />
+    <MESSAGE value="HackerRank" />
+    <option name="LAST_COMMIT_MESSAGE" value="HackerRank" />
   </component>
 </project>

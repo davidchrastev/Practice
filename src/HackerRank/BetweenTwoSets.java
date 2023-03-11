@@ -1,5 +1,6 @@
 package HackerRank;
 
+import java.util.HashMap;
 import java.util.List;
 
 public class BetweenTwoSets {
@@ -28,6 +29,12 @@ public class BetweenTwoSets {
             if (factorA && factorB) {
                 count++;
             }
+
+            Map<Worker, Double> workers = new HashMap<>();
+
+            worker.entrySet()
+                    .stream()
+                    sorted
 
         }
         return count;
