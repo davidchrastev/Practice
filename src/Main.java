@@ -3,8 +3,30 @@ import java.io.*;
 
 class Main {
 
+    private static final Map<String, Integer> wordToNum = new HashMap<>();
+    private static boolean isNegative = false;
+    private static final List<String> tokens = new ArrayList<>();
+
+    public static void main (String[] args) {
+        Scanner s = new Scanner(System.in);
+        System.out.println(StringChallenge(s.nextLine()));
+
+        //onezeropluseight
+        //twozeroplusonezero
+        //twozeroplusonezerominustwozero
+    }
+
     public static String StringChallenge(String str) {
-        Map<String, Integer> wordToNum = new HashMap<>();
+        fillMap();
+
+        getTokens(str);
+
+        int sum = getSum();
+
+        return getResult(sum);
+    }
+
+    private static void fillMap() {
         wordToNum.put("zero", 0);
         wordToNum.put("one", 1);
         wordToNum.put("two", 2);
@@ -15,13 +37,13 @@ class Main {
         wordToNum.put("seven", 7);
         wordToNum.put("eight", 8);
         wordToNum.put("nine", 9);
-        wordToNum.put("onezero", 10);
+    }
 
-
-        List<String> tokens = new ArrayList<>();
+    private static void getTokens(String str) {
         int startIndex = 0;
 
-        for (int i  = 0;i < str.length();i++) {
+        for (int i = 0; i < str.length(); i++) {
+
             if (str.charAt(i) == 'p')  {
                 tokens.add(str.substring(startIndex, i));
                 tokens.add(str.substring(i, i + 4));
@@ -36,46 +58,21 @@ class Main {
         }
 
         tokens.add(str.substring(startIndex));
-
-
-
-        Integer result = getNumber(tokens.get(0).split(""), wordToNum);
-
-        boolean isNegative = false;
-
-        for (int i  = 1; i <tokens.size(); i += 2) {
-            if (tokens.get(i).equals("minus")) {
-                isNegative = true;
-                result -= getNumber(tokens.get(i + 1).split(""), wordToNum);
-
-            } else {
-                result += getNumber(tokens.get(i + 1).split(""), wordToNum);
-
-            }
-        }
-        StringBuilder output = new StringBuilder();
-        if (isNegative) {
-            output.append("negative");
-        }
-
-        String resultString = Integer.toString(Math.abs(result));
-        for(int i = 0; i < resultString.length(); i++) {
-            int current = i;
-            output.append(wordToNum.keySet()
-                    .stream()
-                    .filter(key -> wordToNum.get(key) == Integer.parseInt(resultString.substring(current, current + 1)))
-                    .findFirst()
-                    .orElse(""));
-        }
-
-        return output.toString();
     }
 
-    public static void main (String[] args) {
-        Scanner s = new Scanner(System.in);
-        System.out.println(StringChallenge(s.nextLine()));
+    private static int getSum() {
+        int sum = getNumber(tokens.get(0).split(""), wordToNum);
 
-//      onezeropluseight
+        for (int i  = 1; i <tokens.size(); i += 2) {
+            switch (tokens.get(i)) {
+                case "minus" -> {
+                    isNegative = true;
+                    sum -= getNumber(tokens.get(i + 1).split(""), wordToNum);
+                }
+                case "plus" -> sum += getNumber(tokens.get(i + 1).split(""), wordToNum);
+            }
+        }
+        return sum;
     }
 
     public static int getNumber(String[] arr, Map<String, Integer> words) {
@@ -93,5 +90,25 @@ class Main {
 
         result.append(words.get(word.toString()));
         return Integer.parseInt(result.toString());
+    }
+
+    private static String getResult(int sum) {
+        StringBuilder result = new StringBuilder();
+
+        if (isNegative) {
+            result.append("negative");
+        }
+
+        String sumToString = Integer.toString(Math.abs(sum));
+        for(int i = 0; i < sumToString.length(); i++) {
+            int current = i;
+            result.append(wordToNum.keySet()
+                    .stream()
+                    .filter(key -> wordToNum.get(key) == Integer.parseInt(sumToString.substring(current, current + 1)))
+                    .findFirst()
+                    .orElse(""));
+        }
+
+        return result.toString();
     }
 }
