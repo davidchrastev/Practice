@@ -39,17 +39,17 @@ class Main {
 
 
 
-        Integer result = Integer.parseInt(getNumber(tokens.get(0).split("")));
+        Integer result = getNumber(tokens.get(0).split(""), wordToNum);
 
         boolean isNegative = false;
 
         for (int i  = 1; i <tokens.size(); i += 2) {
             if (tokens.get(i).equals("minus")) {
                 isNegative = true;
-                result -= Integer.parseInt(getNumber(tokens.get(i + 1).split("")));
+                result -= getNumber(tokens.get(i + 1).split(""), wordToNum);
 
             } else {
-                result += Integer.parseInt(getNumber(tokens.get(i + 1).split("")));
+                result += getNumber(tokens.get(i + 1).split(""), wordToNum);
 
             }
         }
@@ -72,123 +72,26 @@ class Main {
     }
 
     public static void main (String[] args) {
-        // keep this function call here
         Scanner s = new Scanner(System.in);
-//        String str = s.nextLine();
-//        StringChallenge(str);
-        System.out.print(StringChallenge(s.nextLine()));
+        System.out.println(StringChallenge(s.nextLine()));
+
+//      onezeropluseight
     }
 
-    public static String getNumber(String[] arr) {
+    public static int getNumber(String[] arr, Map<String, Integer> words) {
         StringBuilder result = new StringBuilder();
         StringBuilder word = new StringBuilder();
+
         for (String s : arr) {
-            switch (word.toString()) {
-                case "one":
-                    result.append("1");
-                    word = new StringBuilder();
-                    word.append(s);
-                    break;
-                case "two":
-                    result.append("2");
-                    word = new StringBuilder();
-                    word.append(s);
-                    break;
-                case "three":
-                    result.append("3");
-                    word = new StringBuilder();
-                    word.append(s);
-                    break;
-                case "four":
-                    result.append("4");
-                    word = new StringBuilder();
-                    word.append(s);
-                    break;
-                case "five":
-                    result.append("5");
-                    word = new StringBuilder();
-                    word.append(s);
-                    break;
-                case "six":
-                    result.append("6");
-                    word = new StringBuilder();
-                    word.append(s);
-                    break;
-                case "seven":
-                    result.append("7");
-                    word = new StringBuilder();
-                    word.append(s);
-                    break;
-                case "eight":
-                    result.append("8");
-                    word = new StringBuilder();
-                    word.append(s);
-                    break;
-                case "nine":
-                    result.append("9");
-                    word = new StringBuilder();
-                    word.append(s);
-                    break;
-                case "zero":
-                    result.append("0");
-                    word = new StringBuilder();
-                    word.append(s);
-                    break;
-                default:
-                    word.append(s);
-                    break;
+            if (words.containsKey(word.toString())) {
+                result.append(words.get(word.toString()));
+                word = new StringBuilder(s);
+            } else {
+                word.append(s);
             }
         }
 
-        switch (word.toString()) {
-            case "one":
-                result.append("1");
-
-                break;
-            case "two":
-                result.append("2");
-
-                break;
-            case "three":
-                result.append("3");
-
-                break;
-            case "four":
-                result.append("4");
-
-                break;
-            case "five":
-                result.append("5");
-
-                break;
-            case "six":
-                result.append("6");
-
-                break;
-            case "seven":
-                result.append("7");
-
-                break;
-            case "eight":
-                result.append("8");
-
-                break;
-            case "nine":
-                result.append("9");
-
-                break;
-            case "zero":
-                result.append("0");
-
-                break;
-
-        }
-        return result.toString();
-
+        result.append(words.get(word.toString()));
+        return Integer.parseInt(result.toString());
     }
 }
-
-
-
-
-
