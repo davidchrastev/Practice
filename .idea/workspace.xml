@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Solution for a task in CodeWars">
-      <change afterPath="$PROJECT_DIR$/src/CodeWars/MaxSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/GreatestValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +51,20 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.GreatestValue">
+    <configuration name="GreatestValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.matrix.GreatestValue" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.matrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="practice" />
@@ -85,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GreatestValue" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.SumOfArray" />
         <item itemvalue="Application.Random" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Random" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678705243217</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Solution for a task in CodeWars">
+      <created>1678705470465</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1678705470465</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -317,5 +339,76 @@
     <MESSAGE value="Making the code a lot cleaner and readable" />
     <MESSAGE value="Solution for a task in CodeWars" />
     <option name="LAST_COMMIT_MESSAGE" value="Solution for a task in CodeWars" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/matrix/GreatestValue.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/matrix/GreatestValue.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/matrix/GreatestValue.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/matrix/GreatestValue.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/matrix/GreatestValue.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/matrix/GreatestValue.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/matrix/GreatestValue.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/matrix/GreatestValue.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/matrix/GreatestValue.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/matrix/GreatestValue.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/matrix/GreatestValue.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/matrix/GreatestValue.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/matrix/GreatestValue.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
