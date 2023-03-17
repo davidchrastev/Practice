@@ -21,12 +21,10 @@ public class GreatestValue {
         while (matrix.size() > 0 && matrix.get(0).size() > 0) {
 
             int maxNumber = Integer.MIN_VALUE;
-            // Iterate over each row in the matrix
             for (List<Integer> row : matrix) {
                 int max = Integer.MIN_VALUE;
                 int maxIndex = -1;
 
-                // Iterate over each element in the row
                 for (int i = 0; i < row.size(); i++) {
                     int value = row.get(i);
 
