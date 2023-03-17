@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Image flipping and inverting">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/DiagonalSum.java" afterDir="false" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Diagonals Sum">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/CountNegatives.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/ValidMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/matrix/FlippingImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/matrix/FlippingImage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DiagonalSum">
+  <component name="RunManager" selected="Application.ValidMatrix">
     <configuration name="DiagonalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.matrix.DiagonalSum" />
       <module name="practice" />
@@ -91,13 +91,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RichestCustomerWealth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.matrix.RichestCustomerWealth" />
       <module name="practice" />
@@ -111,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.matrix.ValidMatrix" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.matrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidMatrix" />
         <item itemvalue="Application.DiagonalSum" />
         <item itemvalue="Application.FlippingImage" />
         <item itemvalue="Application.RichestCustomerWealth" />
         <item itemvalue="Application.GreatestValue" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +339,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679053339438</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Diagonals Sum">
+      <created>1679089453722</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1679089453722</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -348,7 +361,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Bouncing ball" />
     <MESSAGE value="Super Market Queue" />
     <MESSAGE value="practice algorithms" />
     <MESSAGE value="Date and Time solution" />
@@ -373,7 +385,8 @@
     <MESSAGE value="Solution for a task in CodeWars" />
     <MESSAGE value="Nice solution to a task" />
     <MESSAGE value="Image flipping and inverting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Image flipping and inverting" />
+    <MESSAGE value="Diagonals Sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Diagonals Sum" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
