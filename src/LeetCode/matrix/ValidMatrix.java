@@ -15,6 +15,14 @@ public class ValidMatrix {
             validIntegers.add(counter);
         }
 
+        isValid = isColValid(matrix, validIntegers);
+        isValid = isRowValid(matrix, validIntegers);
+
+
+        return isValid;
+    }
+
+    private static boolean isColValid(int[][] matrix, List<Integer> validIntegers) {
         for (int col = 0; col < matrix[0].length; col++) {
             List<Integer> current = new ArrayList<>(validIntegers);
             for (int row = 0; row < matrix.length; row++) {
@@ -27,7 +35,10 @@ public class ValidMatrix {
                 return false;
             }
         }
+        return true;
+    }
 
+    private static boolean isRowValid(int[][] matrix, List<Integer> validIntegers) {
         for (int row = 0; row < matrix.length; row++) {
             List<Integer> current = new ArrayList<>(validIntegers);
             for (int col = 0; col < matrix[row].length; col++) {
@@ -40,9 +51,7 @@ public class ValidMatrix {
                 return false;
             }
         }
-
-
-        return isValid;
+        return true;
     }
 
     public static void main(String[] args) {

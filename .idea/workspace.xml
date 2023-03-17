@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Diagonals Sum">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/CountNegatives.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/ValidMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Solving matrix problems.">
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/matrix/ValidMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/matrix/ValidMatrix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -346,7 +344,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679089453722</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Solving matrix problems.">
+      <created>1679092371661</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1679092371661</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -361,7 +366,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Super Market Queue" />
     <MESSAGE value="practice algorithms" />
     <MESSAGE value="Date and Time solution" />
     <MESSAGE value="CurrencyConverter solution" />
@@ -386,7 +390,8 @@
     <MESSAGE value="Nice solution to a task" />
     <MESSAGE value="Image flipping and inverting" />
     <MESSAGE value="Diagonals Sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="Diagonals Sum" />
+    <MESSAGE value="Solving matrix problems." />
+    <option name="LAST_COMMIT_MESSAGE" value="Solving matrix problems." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
