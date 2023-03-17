@@ -5,9 +5,7 @@ import java.util.Arrays;
 public class FlippingImage {
 
     public static int[][] flipAndInvertImage(int[][] image) {
-        image = flipImage(image);
-
-        return invertImage(image);
+        return invertImage(flipImage(image));
     }
 
     public static int[][] flipImage(int[][] image) {
