@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Really cool task to solve">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/TicTacToe.java" afterDir="false" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Finding if someone won on tic tac toe">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/Convert1Dto2D.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -366,7 +366,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679148670591</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Finding if someone won on tic tac toe">
+      <created>1679164006773</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1679164006773</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -381,7 +388,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Date and Time solution" />
     <MESSAGE value="CurrencyConverter solution" />
     <MESSAGE value="Practice in HackerRank" />
     <MESSAGE value="Practice in HackerRank Anagrams, Palindromes" />
@@ -406,7 +412,8 @@
     <MESSAGE value="Diagonals Sum" />
     <MESSAGE value="Solving matrix problems." />
     <MESSAGE value="Really cool task to solve" />
-    <option name="LAST_COMMIT_MESSAGE" value="Really cool task to solve" />
+    <MESSAGE value="Finding if someone won on tic tac toe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finding if someone won on tic tac toe" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
