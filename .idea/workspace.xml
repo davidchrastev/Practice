@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Finding if someone won on tic tac toe">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/Convert1Dto2D.java" afterDir="false" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Converting 1D to 2D">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/KWeakest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -373,7 +373,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679164006773</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Converting 1D to 2D">
+      <created>1679165181080</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1679165181080</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -388,7 +395,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CurrencyConverter solution" />
     <MESSAGE value="Practice in HackerRank" />
     <MESSAGE value="Practice in HackerRank Anagrams, Palindromes" />
     <MESSAGE value="Difference in the primary and the secondary diagonals" />
@@ -413,7 +419,8 @@
     <MESSAGE value="Solving matrix problems." />
     <MESSAGE value="Really cool task to solve" />
     <MESSAGE value="Finding if someone won on tic tac toe" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finding if someone won on tic tac toe" />
+    <MESSAGE value="Converting 1D to 2D" />
+    <option name="LAST_COMMIT_MESSAGE" value="Converting 1D to 2D" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
