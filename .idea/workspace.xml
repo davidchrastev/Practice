@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Weakest Rows">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/arrays/Flowers.java" afterDir="false" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Daily challenge">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/arrays/TeemoAttacking.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -388,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679247780783</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Daily challenge">
+      <created>1679306914435</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1679306914435</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -403,7 +410,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Practice in HackerRank Anagrams, Palindromes" />
     <MESSAGE value="Difference in the primary and the secondary diagonals" />
     <MESSAGE value="SumOfArray (positive, negative, zeros) algorithm" />
     <MESSAGE value="Basic stairCase" />
@@ -428,7 +434,8 @@
     <MESSAGE value="Finding if someone won on tic tac toe" />
     <MESSAGE value="Converting 1D to 2D" />
     <MESSAGE value="Weakest Rows" />
-    <option name="LAST_COMMIT_MESSAGE" value="Weakest Rows" />
+    <MESSAGE value="Daily challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="Daily challenge" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
