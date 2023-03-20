@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Converting 1D to 2D">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/KWeakest.java" afterDir="false" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Weakest Rows">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/arrays/Flowers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +51,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ValidMatrix">
+  <component name="RunManager" selected="Application.Flowers">
     <configuration name="DiagonalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.matrix.DiagonalSum" />
       <module name="practice" />
@@ -77,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreatestValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.matrix.GreatestValue" />
+    <configuration name="Flowers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.arrays.Flowers" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.matrix.*" />
+          <option name="PATTERN" value="LeetCode.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RichestCustomerWealth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.matrix.RichestCustomerWealth" />
+    <configuration name="MinimumSumOfFourDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.sorting.MinimumSumOfFourDigits" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.matrix.*" />
+          <option name="PATTERN" value="LeetCode.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Flowers" />
+        <item itemvalue="Application.MinimumSumOfFourDigits" />
         <item itemvalue="Application.ValidMatrix" />
         <item itemvalue="Application.DiagonalSum" />
         <item itemvalue="Application.FlippingImage" />
-        <item itemvalue="Application.RichestCustomerWealth" />
-        <item itemvalue="Application.GreatestValue" />
       </list>
     </recent_temporary>
   </component>
@@ -380,7 +381,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679165181080</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Weakest Rows">
+      <created>1679247780783</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1679247780783</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -395,7 +403,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Practice in HackerRank" />
     <MESSAGE value="Practice in HackerRank Anagrams, Palindromes" />
     <MESSAGE value="Difference in the primary and the secondary diagonals" />
     <MESSAGE value="SumOfArray (positive, negative, zeros) algorithm" />
@@ -420,7 +427,8 @@
     <MESSAGE value="Really cool task to solve" />
     <MESSAGE value="Finding if someone won on tic tac toe" />
     <MESSAGE value="Converting 1D to 2D" />
-    <option name="LAST_COMMIT_MESSAGE" value="Converting 1D to 2D" />
+    <MESSAGE value="Weakest Rows" />
+    <option name="LAST_COMMIT_MESSAGE" value="Weakest Rows" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -430,7 +438,72 @@
           <line>52</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Practice$MinimumSumOfFourDigits.ic" NAME="MinimumSumOfFourDigits Coverage Results" MODIFIED="1679267346645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>LeetCode.sorting.*</FILTER>
+    </SUITE>
   </component>
 </project>
