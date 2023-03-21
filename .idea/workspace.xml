@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Matrix Subrectangle">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/MaxIncrease.java" afterDir="false" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Really nice problem watched couple videos to understand what should i do, it's not that hard">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/arrays/Subarrays.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/matrix/MaxIncrease.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/matrix/MaxIncrease.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxIncrease">
+  <component name="RunManager" selected="Application.Subarrays">
     <configuration name="Flowers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.arrays.Flowers" />
       <module name="practice" />
@@ -104,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.matrix.ValidMatrix" />
+    <configuration name="Subarrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.arrays.Subarrays" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.matrix.*" />
+          <option name="PATTERN" value="LeetCode.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Subarrays" />
         <item itemvalue="Application.MaxIncrease" />
         <item itemvalue="Application.LuckyNumbersInAMatrix" />
         <item itemvalue="Application.Flowers" />
         <item itemvalue="Application.MinimumSumOfFourDigits" />
-        <item itemvalue="Application.ValidMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -416,7 +417,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679319575924</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Really nice problem watched couple videos to understand what should i do, it's not that hard">
+      <created>1679322008996</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1679322008996</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -431,7 +439,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Min and Max Sum of an array with size 5" />
     <MESSAGE value="Min and Max Sum of an array" />
     <MESSAGE value="Basic solution for Cake Candles" />
     <MESSAGE value="Time Conversion Basic" />
@@ -456,7 +463,8 @@
     <MESSAGE value="Teemo attack" />
     <MESSAGE value="Practicing my problem solving skills" />
     <MESSAGE value="Matrix Subrectangle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Matrix Subrectangle" />
+    <MESSAGE value="Really nice problem watched couple videos to understand what should i do, it's not that hard" />
+    <option name="LAST_COMMIT_MESSAGE" value="Really nice problem watched couple videos to understand what should i do, it's not that hard" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -525,11 +533,6 @@
           <url>file://$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java</url>
           <line>22</line>
           <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/matrix/MaxIncrease.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="56" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
