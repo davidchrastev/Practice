@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Really nice problem watched couple videos to understand what should i do, it's not that hard">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/arrays/Subarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java" afterDir="false" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="not solved">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/matrix/MaxIncrease.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/matrix/MaxIncrease.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/arrays/Subarrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/arrays/Subarrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -424,7 +422,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679322008996</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="not solved">
+      <created>1679392052931</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1679392052931</updated>
+    </task>
+    <task id="LOCAL-00043" summary="not solved">
+      <created>1679392093250</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1679392093250</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -439,7 +451,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Min and Max Sum of an array" />
     <MESSAGE value="Basic solution for Cake Candles" />
     <MESSAGE value="Time Conversion Basic" />
     <MESSAGE value="Random problem" />
@@ -464,7 +475,8 @@
     <MESSAGE value="Practicing my problem solving skills" />
     <MESSAGE value="Matrix Subrectangle" />
     <MESSAGE value="Really nice problem watched couple videos to understand what should i do, it's not that hard" />
-    <option name="LAST_COMMIT_MESSAGE" value="Really nice problem watched couple videos to understand what should i do, it's not that hard" />
+    <MESSAGE value="not solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="not solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -475,64 +487,9 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java</url>
-          <line>59</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/sorting/MinimumSumOfFourDigits.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/arrays/Subarrays.java</url>
           <line>22</line>
-          <option name="timeStamp" value="31" />
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

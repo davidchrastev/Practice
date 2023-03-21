@@ -6,38 +6,39 @@ import java.util.List;
 
 public class Subarrays {
     public static long zeroFilledSubarray(int[] nums) {
-        int countZeros = 0;
-        int sub = 0;
-        int index = 0;
-        boolean previous = false;
+//        long countZeros = 0;
+//        long windowSize = 0;
+//        for (int num : nums) {
+//            if (num == 0) {
+//                windowSize++;
+//            } else {
+//                if (windowSize > 0) {
+//                    countZeros += (windowSize * (windowSize + 1)) / 2;
+//                    windowSize = 0;
+//                }
+//            }
+//        }
+//        if (windowSize > 0) {
+//            countZeros += (windowSize * (windowSize + 1)) / 2;
+//        }
+//        return countZeros;
 
-        while (index < nums.length) {
+        long ans = 0;
+        long count = 0;
 
-            if (previous && nums[index] == 0) {
-                sub++;
-                countZeros++;
-            } else if (nums[index] == 0) {
-                countZeros++;
-                previous = true;
+        for (int num : nums) {
+            if (num == 0) {
+                count++;
             } else {
-                countZeros += sub;
-                sub = 0;
-                previous = false;
+                count = 0;
             }
-
-
-
-
-
-            index++;
+            ans = ans + count;
         }
-
-
-        return countZeros;
+        return ans;
     }
 
     public static void main(String[] args) {
-        System.out.println(zeroFilledSubarray(new int[]{0,0,0,2,0,0}));
+        System.out.println(zeroFilledSubarray(new int[]{0,0,0,0,0}));
     }
 
 }
