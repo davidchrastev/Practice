@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Daily challenge">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkedList/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkedList/MergeNodes.java" afterDir="false" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="LinkedList practice">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkedList/LinkedListComponents.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -451,7 +450,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679505235394</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="LinkedList practice">
+      <created>1679571657572</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1679571657572</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -466,7 +472,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Basic solution for Cake Candles" />
     <MESSAGE value="Time Conversion Basic" />
     <MESSAGE value="Random problem" />
     <MESSAGE value="Rounding Grades" />
@@ -491,7 +496,8 @@
     <MESSAGE value="Really nice problem watched couple videos to understand what should i do, it's not that hard" />
     <MESSAGE value="not solved" />
     <MESSAGE value="Daily challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="Daily challenge" />
+    <MESSAGE value="LinkedList practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="LinkedList practice" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
