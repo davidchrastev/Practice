@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="More practice on LinkedList">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkedList/TwinSum.java" afterDir="false" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Daily problem solve.">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/Beams.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -471,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679584114282</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Daily problem solve.">
+      <created>1679679644884</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1679679644884</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -486,7 +493,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Random problem" />
     <MESSAGE value="Rounding Grades" />
     <MESSAGE value="Calculation apples fallen on given target and oranges fallen on given target" />
     <MESSAGE value="Calculating if two kangaroos meet in a jump" />
@@ -511,7 +517,8 @@
     <MESSAGE value="Daily challenge" />
     <MESSAGE value="LinkedList practice" />
     <MESSAGE value="More practice on LinkedList" />
-    <option name="LAST_COMMIT_MESSAGE" value="More practice on LinkedList" />
+    <MESSAGE value="Daily problem solve." />
+    <option name="LAST_COMMIT_MESSAGE" value="Daily problem solve." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
