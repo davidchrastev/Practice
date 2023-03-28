@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Daily problem solve.">
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="LinkedList practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Subarrays">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Flowers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.arrays.Flowers" />
       <module name="practice" />
@@ -76,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxIncrease" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.matrix.MaxIncrease" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Main" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.matrix.*" />
+          <option name="PATTERN" value="LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumSumOfFourDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.sorting.MinimumSumOfFourDigits" />
+    <configuration name="MaxIncrease" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.matrix.MaxIncrease" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.sorting.*" />
+          <option name="PATTERN" value="LeetCode.matrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Subarrays" />
         <item itemvalue="Application.MaxIncrease" />
         <item itemvalue="Application.LuckyNumbersInAMatrix" />
         <item itemvalue="Application.Flowers" />
-        <item itemvalue="Application.MinimumSumOfFourDigits" />
       </list>
     </recent_temporary>
   </component>
@@ -133,13 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673795024064</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Super Market Queue">
-      <created>1673802715880</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1673802715880</updated>
     </task>
     <task id="LOCAL-00004" summary="practice algorithms">
       <created>1673859712932</created>
@@ -477,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679852917540</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="LinkedList practice">
+      <created>1679864409964</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1679864409980</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -514,10 +515,10 @@
     <MESSAGE value="Really nice problem watched couple videos to understand what should i do, it's not that hard" />
     <MESSAGE value="not solved" />
     <MESSAGE value="Daily challenge" />
-    <MESSAGE value="LinkedList practice" />
     <MESSAGE value="More practice on LinkedList" />
     <MESSAGE value="Daily problem solve." />
-    <option name="LAST_COMMIT_MESSAGE" value="Daily problem solve." />
+    <MESSAGE value="LinkedList practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="LinkedList practice" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
