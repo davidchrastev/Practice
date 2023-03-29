@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Random Problem from internet">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/Difference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Really nice problem with matrix">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/ValidMatrix2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,13 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673795024064</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Date and Time solution">
-      <created>1675788473925</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1675788473925</updated>
     </task>
     <task id="LOCAL-00006" summary="CurrencyConverter solution">
       <created>1675788896319</created>
@@ -478,7 +470,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680023249559</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Really nice problem with matrix">
+      <created>1680116774131</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1680116774132</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -493,7 +492,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Calculation apples fallen on given target and oranges fallen on given target" />
     <MESSAGE value="Calculating if two kangaroos meet in a jump" />
     <MESSAGE value="HackerRank" />
     <MESSAGE value="interesting problem to solve i need to upgrade it for now i works but it's not fine" />
@@ -518,7 +516,8 @@
     <MESSAGE value="Daily problem solve." />
     <MESSAGE value="LinkedList practice" />
     <MESSAGE value="Random Problem from internet" />
-    <option name="LAST_COMMIT_MESSAGE" value="Random Problem from internet" />
+    <MESSAGE value="Really nice problem with matrix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Really nice problem with matrix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
