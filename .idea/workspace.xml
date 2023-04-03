@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Really nice problem with matrix">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/ValidMatrix2.java" afterDir="false" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="not finding a solution">
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/basicSolveTest/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/basicSolveTest/Result2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,20 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673795024064</updated>
-    </task>
-    <task id="LOCAL-00006" summary="CurrencyConverter solution">
-      <created>1675788896319</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1675788896319</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Practice in HackerRank">
-      <created>1675875029204</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1675875029204</updated>
     </task>
     <task id="LOCAL-00008" summary="Practice in HackerRank Anagrams, Palindromes">
       <created>1675876400912</created>
@@ -477,7 +465,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680116774132</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Really nice problem with matrix">
+      <created>1680117181705</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1680117181705</updated>
+    </task>
+    <task id="LOCAL-00056" summary="not finding a solution">
+      <created>1680117572006</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1680117572006</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -492,7 +494,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Calculating if two kangaroos meet in a jump" />
     <MESSAGE value="HackerRank" />
     <MESSAGE value="interesting problem to solve i need to upgrade it for now i works but it's not fine" />
     <MESSAGE value="Cleaner Code" />
@@ -517,7 +518,8 @@
     <MESSAGE value="LinkedList practice" />
     <MESSAGE value="Random Problem from internet" />
     <MESSAGE value="Really nice problem with matrix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Really nice problem with matrix" />
+    <MESSAGE value="not finding a solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="not finding a solution" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
