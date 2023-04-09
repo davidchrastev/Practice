@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="HackerRank certificate solutions">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Duplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Fast way to find duplicates">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/MaximumSubArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Duplicate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,13 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673795024064</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Difference in the primary and the secondary diagonals">
-      <created>1676278808189</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1676278808189</updated>
     </task>
     <task id="LOCAL-00010" summary="SumOfArray (positive, negative, zeros) algorithm">
       <created>1676279930342</created>
@@ -478,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680517353688</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Fast way to find duplicates">
+      <created>1681063282281</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1681063282281</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -493,7 +493,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="interesting problem to solve i need to upgrade it for now i works but it's not fine" />
     <MESSAGE value="Cleaner Code" />
     <MESSAGE value="Making the code a lot cleaner and readable" />
     <MESSAGE value="Solution for a task in CodeWars" />
@@ -518,7 +517,8 @@
     <MESSAGE value="Really nice problem with matrix" />
     <MESSAGE value="not finding a solution" />
     <MESSAGE value="HackerRank certificate solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="HackerRank certificate solutions" />
+    <MESSAGE value="Fast way to find duplicates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fast way to find duplicates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -532,16 +532,6 @@
           <url>file://$PROJECT_DIR$/src/LeetCode/arrays/Subarrays.java</url>
           <line>40</line>
           <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Duplicate.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Duplicate.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

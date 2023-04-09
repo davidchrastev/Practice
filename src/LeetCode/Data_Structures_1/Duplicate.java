@@ -2,7 +2,6 @@ package LeetCode.Data_Structures_1;
 
 import java.util.Arrays;
 import java.util.HashSet;
-import java.util.Set;
 
 public class Duplicate {
 
