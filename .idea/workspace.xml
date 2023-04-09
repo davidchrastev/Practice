@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="not finding a solution">
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/basicSolveTest/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/basicSolveTest/Result2.java" afterDir="false" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="HackerRank certificate solutions">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Duplicate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,13 +50,13 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Flowers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.arrays.Flowers" />
+  <component name="RunManager" selected="Application.Duplicate">
+    <configuration name="Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Data_Structures_1.Duplicate" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.arrays.*" />
+          <option name="PATTERN" value="LeetCode.Data_Structures_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Duplicate" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Subarrays" />
         <item itemvalue="Application.MaxIncrease" />
         <item itemvalue="Application.LuckyNumbersInAMatrix" />
-        <item itemvalue="Application.Flowers" />
       </list>
     </recent_temporary>
   </component>
@@ -135,13 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673795024064</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Practice in HackerRank Anagrams, Palindromes">
-      <created>1675876400912</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1675876400912</updated>
     </task>
     <task id="LOCAL-00009" summary="Difference in the primary and the secondary diagonals">
       <created>1676278808189</created>
@@ -479,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680117572006</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="HackerRank certificate solutions">
+      <created>1680517353688</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1680517353688</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,7 +493,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="HackerRank" />
     <MESSAGE value="interesting problem to solve i need to upgrade it for now i works but it's not fine" />
     <MESSAGE value="Cleaner Code" />
     <MESSAGE value="Making the code a lot cleaner and readable" />
@@ -519,7 +517,8 @@
     <MESSAGE value="Random Problem from internet" />
     <MESSAGE value="Really nice problem with matrix" />
     <MESSAGE value="not finding a solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="not finding a solution" />
+    <MESSAGE value="HackerRank certificate solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="HackerRank certificate solutions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -533,6 +532,16 @@
           <url>file://$PROJECT_DIR$/src/LeetCode/arrays/Subarrays.java</url>
           <line>40</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Duplicate.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Duplicate.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
