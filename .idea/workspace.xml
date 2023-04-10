@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Fast way to find duplicates">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/MaximumSubArr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Duplicate.java" afterDir="false" />
-    </list>
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="largest subarr" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,13 +131,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673795024064</updated>
-    </task>
-    <task id="LOCAL-00010" summary="SumOfArray (positive, negative, zeros) algorithm">
-      <created>1676279930342</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1676279930342</updated>
     </task>
     <task id="LOCAL-00011" summary="Basic stairCase">
       <created>1676280786096</created>
@@ -478,7 +468,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681063282281</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="largest subarr">
+      <created>1681063819477</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1681063819477</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -493,7 +490,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Cleaner Code" />
     <MESSAGE value="Making the code a lot cleaner and readable" />
     <MESSAGE value="Solution for a task in CodeWars" />
     <MESSAGE value="Nice solution to a task" />
@@ -518,7 +514,8 @@
     <MESSAGE value="not finding a solution" />
     <MESSAGE value="HackerRank certificate solutions" />
     <MESSAGE value="Fast way to find duplicates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fast way to find duplicates" />
+    <MESSAGE value="largest subarr" />
+    <option name="LAST_COMMIT_MESSAGE" value="largest subarr" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
