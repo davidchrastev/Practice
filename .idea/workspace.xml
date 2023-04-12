@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Solution day 2">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Intersection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Merge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Daily challenge" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,20 +131,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673795024064</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Min and Max Sum of an array">
-      <created>1676313325024</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1676313325024</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Basic solution for Cake Candles">
-      <created>1676313764338</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1676313764338</updated>
     </task>
     <task id="LOCAL-00014" summary="Time Conversion Basic">
       <created>1676315282756</created>
@@ -479,7 +461,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681142207690</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Daily challenges">
+      <created>1681235537834</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1681235537834</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Daily challenge">
+      <created>1681235605509</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1681235605509</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,7 +490,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Solution for a task in CodeWars" />
     <MESSAGE value="Nice solution to a task" />
     <MESSAGE value="Image flipping and inverting" />
     <MESSAGE value="Diagonals Sum" />
@@ -508,7 +503,6 @@
     <MESSAGE value="Matrix Subrectangle" />
     <MESSAGE value="Really nice problem watched couple videos to understand what should i do, it's not that hard" />
     <MESSAGE value="not solved" />
-    <MESSAGE value="Daily challenge" />
     <MESSAGE value="More practice on LinkedList" />
     <MESSAGE value="Daily problem solve." />
     <MESSAGE value="LinkedList practice" />
@@ -519,7 +513,9 @@
     <MESSAGE value="Fast way to find duplicates" />
     <MESSAGE value="largest subarr" />
     <MESSAGE value="Solution day 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solution day 2" />
+    <MESSAGE value="Daily challenges" />
+    <MESSAGE value="Daily challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="Daily challenge" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
