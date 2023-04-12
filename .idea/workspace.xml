@@ -135,13 +135,6 @@
       <option name="presentableId" value="Default" />
       <updated>1673795024064</updated>
     </task>
-    <task id="LOCAL-00016" summary="Rounding Grades">
-      <created>1676367263288</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1676367263288</updated>
-    </task>
     <task id="LOCAL-00017" summary="Calculation apples fallen on given target and oranges fallen on given target">
       <created>1676483240895</created>
       <option name="number" value="00017" />
@@ -478,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681332263099</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Daily challenges">
+      <created>1681333180517</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1681333180517</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
