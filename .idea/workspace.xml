@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Daily challenge" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Daily challenges">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Reshape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Reshape.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,26 +50,13 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Duplicate">
+  <component name="RunManager" selected="Application.Reshape">
     <configuration name="Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Data_Structures_1.Duplicate" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCode.Data_Structures_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LuckyNumbersInAMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.matrix.LuckyNumbersInAMatrix" />
-      <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.matrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,6 +90,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Reshape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Data_Structures_1.Reshape" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.Data_Structures_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Subarrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.arrays.Subarrays" />
       <module name="practice" />
@@ -115,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reshape" />
         <item itemvalue="Application.Duplicate" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Subarrays" />
         <item itemvalue="Application.MaxIncrease" />
-        <item itemvalue="Application.LuckyNumbersInAMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -131,13 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673795024064</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Random problem">
-      <created>1676366185557</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1676366185557</updated>
     </task>
     <task id="LOCAL-00016" summary="Rounding Grades">
       <created>1676367263288</created>
@@ -475,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681323274701</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Daily challenges">
+      <created>1681332263098</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1681332263099</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -513,9 +516,9 @@
     <MESSAGE value="Fast way to find duplicates" />
     <MESSAGE value="largest subarr" />
     <MESSAGE value="Solution day 2" />
-    <MESSAGE value="Daily challenges" />
     <MESSAGE value="Daily challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="Daily challenge" />
+    <MESSAGE value="Daily challenges" />
+    <option name="LAST_COMMIT_MESSAGE" value="Daily challenges" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
