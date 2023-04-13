@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Daily challenges">
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/PascalTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/PascalTriangle.java" afterDir="false" />
-    </list>
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Daily challenges" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,13 +131,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673795024064</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Calculating if two kangaroos meet in a jump">
-      <created>1676484215715</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1676484215715</updated>
     </task>
     <task id="LOCAL-00019" summary="HackerRank">
       <created>1676566658241</created>
@@ -477,7 +468,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681334504204</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Daily challenges">
+      <created>1681334610762</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1681334610762</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
