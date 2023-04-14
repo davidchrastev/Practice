@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Daily challenges" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Daily challenge solve, sudoku problem couldn't come up with solution" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,20 +131,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673795024064</updated>
-    </task>
-    <task id="LOCAL-00019" summary="HackerRank">
-      <created>1676566658241</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1676566658241</updated>
-    </task>
-    <task id="LOCAL-00020" summary="interesting problem to solve i need to upgrade it for now i works but it's not fine">
-      <created>1678554434090</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1678554434090</updated>
     </task>
     <task id="LOCAL-00021" summary="interesting problem to solve i need to upgrade it for now i works but it's not fine">
       <created>1678554488584</created>
@@ -475,7 +461,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681334610762</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Daily challenges">
+      <created>1681418024446</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1681418024447</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Daily challenge solve, sudoku problem couldn't come up with solution">
+      <created>1681418145582</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1681418145582</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -490,7 +490,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Nice solution to a task" />
     <MESSAGE value="Image flipping and inverting" />
     <MESSAGE value="Diagonals Sum" />
     <MESSAGE value="Solving matrix problems." />
@@ -515,7 +514,8 @@
     <MESSAGE value="Solution day 2" />
     <MESSAGE value="Daily challenge" />
     <MESSAGE value="Daily challenges" />
-    <option name="LAST_COMMIT_MESSAGE" value="Daily challenges" />
+    <MESSAGE value="Daily challenge solve, sudoku problem couldn't come up with solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Daily challenge solve, sudoku problem couldn't come up with solution" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
