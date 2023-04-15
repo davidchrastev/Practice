@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Daily challenge solve," />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Daily challenge solve" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,13 +131,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673795024064</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Solution for a task in CodeWars">
-      <created>1678648151222</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1678648151222</updated>
     </task>
     <task id="LOCAL-00025" summary="Solution for a task in CodeWars">
       <created>1678705243217</created>
@@ -475,7 +468,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681486553996</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Daily challenge solve">
+      <created>1681571374071</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1681571374072</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -490,7 +490,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Diagonals Sum" />
     <MESSAGE value="Solving matrix problems." />
     <MESSAGE value="Really cool task to solve" />
     <MESSAGE value="Finding if someone won on tic tac toe" />
@@ -515,7 +514,8 @@
     <MESSAGE value="Daily challenges" />
     <MESSAGE value="Daily challenge solve, sudoku problem couldn't come up with solution" />
     <MESSAGE value="Daily challenge solve," />
-    <option name="LAST_COMMIT_MESSAGE" value="Daily challenge solve," />
+    <MESSAGE value="Daily challenge solve" />
+    <option name="LAST_COMMIT_MESSAGE" value="Daily challenge solve" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
