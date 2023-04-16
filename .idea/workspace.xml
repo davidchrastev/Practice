@@ -132,20 +132,6 @@
       <option name="presentableId" value="Default" />
       <updated>1673795024064</updated>
     </task>
-    <task id="LOCAL-00025" summary="Solution for a task in CodeWars">
-      <created>1678705243217</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1678705243217</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Solution for a task in CodeWars">
-      <created>1678705470465</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1678705470465</updated>
-    </task>
     <task id="LOCAL-00027" summary="Nice solution to a task">
       <created>1678990982048</created>
       <option name="number" value="00027" />
@@ -475,7 +461,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681571374072</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Daily challenge solve">
+      <created>1681571553650</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1681571553650</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Daily challenge solve">
+      <created>1681571667679</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1681571667680</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
