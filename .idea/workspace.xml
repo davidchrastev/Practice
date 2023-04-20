@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Daily challenge solve">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/BinaryTreeLevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/PostOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,27 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673795024064</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Really cool task to solve">
-      <created>1679148670591</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1679148670591</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Finding if someone won on tic tac toe">
-      <created>1679164006773</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1679164006773</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Converting 1D to 2D">
-      <created>1679165181080</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1679165181080</updated>
     </task>
     <task id="LOCAL-00036" summary="Weakest Rows">
       <created>1679247780783</created>
@@ -479,7 +456,28 @@
       <option name="project" value="LOCAL" />
       <updated>1681844668298</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="Daily challenge solve">
+      <created>1681916046076</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1681916046077</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Daily challenge solve">
+      <created>1681916177995</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1681916177995</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Daily challenge solve">
+      <created>1681916280297</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1681916280297</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
