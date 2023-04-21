@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Daily challenge solve" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Daily challenge solve">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/BinarySearchTreeInsert.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,20 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673795024064</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Teemo attack">
-      <created>1679308376913</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1679308376913</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Practicing my problem solving skills">
-      <created>1679311707601</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1679311707601</updated>
     </task>
     <task id="LOCAL-00040" summary="Matrix Subrectangle">
       <created>1679319575924</created>
@@ -475,7 +463,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682005303882</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Daily challenge solve">
+      <created>1682094961579</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1682094961580</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Daily challenge solve">
+      <created>1682095033331</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1682095033331</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
