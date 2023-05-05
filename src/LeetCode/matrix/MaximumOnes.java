@@ -17,7 +17,6 @@ public class MaximumOnes {
                 result[0] = row;
                 result[1] = maxCount;
             }
-            currentCount = 0;
         }
         return result;
     }
