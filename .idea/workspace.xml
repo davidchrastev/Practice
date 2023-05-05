@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="    Daily challenge solve">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/MaximumOnes.java" afterDir="false" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Easy task.">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/EqualRowAndColumn.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,13 +38,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/задача/magicGame&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/User/Desktop/задача/magicGame",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
@@ -134,20 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673795024064</updated>
-    </task>
-    <task id="LOCAL-00049" summary="Daily problem solve.">
-      <created>1679679644884</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1679679644884</updated>
-    </task>
-    <task id="LOCAL-00050" summary="Daily problem solve.">
-      <created>1679764259363</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1679764259363</updated>
     </task>
     <task id="LOCAL-00051" summary="Daily problem solve.">
       <created>1679852917538</created>
@@ -478,7 +465,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683217759461</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="Easy task.">
+      <created>1683305461445</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1683305461446</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Easy task.">
+      <created>1683305472561</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1683305472561</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -493,7 +494,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Really cool task to solve" />
     <MESSAGE value="Finding if someone won on tic tac toe" />
     <MESSAGE value="Converting 1D to 2D" />
     <MESSAGE value="Weakest Rows" />
@@ -518,7 +518,8 @@
     <MESSAGE value="Daily challenge solve," />
     <MESSAGE value="Daily challenge solve" />
     <MESSAGE value="    Daily challenge solve" />
-    <option name="LAST_COMMIT_MESSAGE" value="    Daily challenge solve" />
+    <MESSAGE value="Easy task." />
+    <option name="LAST_COMMIT_MESSAGE" value="Easy task." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
