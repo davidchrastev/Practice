@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Today's solve">
-      <change afterPath="$PROJECT_DIR$/src/JewelsAndStones.java" afterDir="false" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Couldn't come up with my own solution and I found this">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,20 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673795024064</updated>
-    </task>
-    <task id="LOCAL-00056" summary="not finding a solution">
-      <created>1680117572006</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1680117572006</updated>
-    </task>
-    <task id="LOCAL-00057" summary="HackerRank certificate solutions">
-      <created>1680517353688</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1680517353688</updated>
     </task>
     <task id="LOCAL-00058" summary="Fast way to find duplicates">
       <created>1681063282281</created>
@@ -479,7 +464,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683392740757</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="Today's solve">
+      <created>1683477793299</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1683477793300</updated>
+    </task>
+    <task id="LOCAL-00106" summary="Couldn't come up with my own solution and I found this">
+      <created>1683477998442</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1683477998442</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,7 +493,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Teemo attack" />
     <MESSAGE value="Practicing my problem solving skills" />
     <MESSAGE value="Matrix Subrectangle" />
     <MESSAGE value="Really nice problem watched couple videos to understand what should i do, it's not that hard" />
@@ -519,7 +517,8 @@
     <MESSAGE value="Really nice problem started with really messed up code but in the time i refactored parts and it became cleaner" />
     <MESSAGE value="Hard problem will come up with solution eventually" />
     <MESSAGE value="Today's solve" />
-    <option name="LAST_COMMIT_MESSAGE" value="Today's solve" />
+    <MESSAGE value="Couldn't come up with my own solution and I found this" />
+    <option name="LAST_COMMIT_MESSAGE" value="Couldn't come up with my own solution and I found this" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
