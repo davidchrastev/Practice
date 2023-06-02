@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class Main {
+public class Main {
 
     private static final Map<String, Integer> wordToNum = new HashMap<>();
     private static boolean isNegative = false;
@@ -66,7 +66,6 @@ class Main {
         for (int i  = 1; i <tokens.size(); i += 2) {
             switch (tokens.get(i)) {
                 case "minus" -> {
-                    isNegative = true;
                     sum -= getNumber(tokens.get(i + 1).split(""), wordToNum);
                 }
                 case "plus" -> sum += getNumber(tokens.get(i + 1).split(""), wordToNum);
@@ -94,6 +93,10 @@ class Main {
 
     private static String getResult(int sum) {
         StringBuilder result = new StringBuilder();
+
+        if (sum < 0) {
+            isNegative = true;
+        }
 
         if (isNegative) {
             result.append("negative");
