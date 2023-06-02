@@ -65,9 +65,7 @@ public class Main {
 
         for (int i  = 1; i <tokens.size(); i += 2) {
             switch (tokens.get(i)) {
-                case "minus" -> {
-                    sum -= getNumber(tokens.get(i + 1).split(""), wordToNum);
-                }
+                case "minus" -> sum -= getNumber(tokens.get(i + 1).split(""), wordToNum);
                 case "plus" -> sum += getNumber(tokens.get(i + 1).split(""), wordToNum);
             }
         }
