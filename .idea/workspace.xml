@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Today's daily solve">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/arrays/ConcatenationOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RandomProblem_2.java" afterDir="false" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Quick code">
+      <change afterPath="$PROJECT_DIR$/src/TwoHalf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Palindromes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Palindromes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,46 +41,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Coding/Practice",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Coding/MySQL&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConcatenationOfArray">
+  <component name="RunManager" selected="Application.TwoHalf">
     <configuration name="ConcatenationOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.arrays.ConcatenationOfArray" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCode.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Data_Structures_1.Duplicate" />
-      <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.Data_Structures_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,6 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Palindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Palindromes" />
+      <module name="practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Reshape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Data_Structures_1.Reshape" />
       <module name="practice" />
@@ -112,26 +108,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Subarrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.arrays.Subarrays" />
+    <configuration name="TwoHalf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoHalf" />
       <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoHalf" />
+        <item itemvalue="Application.Palindromes" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ConcatenationOfArray" />
         <item itemvalue="Application.Reshape" />
-        <item itemvalue="Application.Duplicate" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Subarrays" />
       </list>
     </recent_temporary>
   </component>
@@ -143,28 +133,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673795024064</updated>
-      <workItem from="1683648423221" duration="337000" />
-    </task>
-    <task id="LOCAL-00059" summary="largest subarr">
-      <created>1681063819477</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1681063819477</updated>
-    </task>
-    <task id="LOCAL-00060" summary="Solution day 2">
-      <created>1681142207690</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1681142207690</updated>
-    </task>
-    <task id="LOCAL-00061" summary="Daily challenges">
-      <created>1681235537834</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1681235537834</updated>
+      <workItem from="1683648423221" duration="643000" />
+      <workItem from="1683735355594" duration="71000" />
+      <workItem from="1684836677208" duration="14000" />
+      <workItem from="1684850552406" duration="72000" />
+      <workItem from="1685690892719" duration="773000" />
+      <workItem from="1685693043769" duration="1156000" />
+      <workItem from="1685737445740" duration="1229000" />
+      <workItem from="1685865611228" duration="3658000" />
     </task>
     <task id="LOCAL-00062" summary="Daily challenge">
       <created>1681235605509</created>
@@ -488,7 +464,28 @@
       <option name="project" value="LOCAL" />
       <updated>1683566770862</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="Today's daily solve">
+      <created>1683649040400</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1683649040401</updated>
+    </task>
+    <task id="LOCAL-00109" summary="Bug in the code - Line 7 - private static boolean isNegative = false; wasn't used correctly">
+      <created>1685737898736</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1685737898737</updated>
+    </task>
+    <task id="LOCAL-00110" summary="Quick code">
+      <created>1685738684185</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1685738684185</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -506,8 +503,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Matrix Subrectangle" />
-    <MESSAGE value="Really nice problem watched couple videos to understand what should i do, it's not that hard" />
     <MESSAGE value="not solved" />
     <MESSAGE value="More practice on LinkedList" />
     <MESSAGE value="Daily problem solve." />
@@ -531,7 +526,9 @@
     <MESSAGE value="Today's solve" />
     <MESSAGE value="Couldn't come up with my own solution and I found this" />
     <MESSAGE value="Today's daily solve" />
-    <option name="LAST_COMMIT_MESSAGE" value="Today's daily solve" />
+    <MESSAGE value="Bug in the code - Line 7 - private static boolean isNegative = false; wasn't used correctly" />
+    <MESSAGE value="Quick code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Quick code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

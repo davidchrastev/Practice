@@ -1,22 +1,31 @@
+import java.util.Arrays;
+
 public class Palindromes {
 
     public static void main(String[] args) {
-        String str = "inni";
+        //[3, 1, 12, -5, 6, 0, 10],  7
+        int[] arr = new int[]{3, 1, 12, -5, 6, 0, 10};
+        int target = 7;
+        System.out.println(Arrays.toString(sumOfTwo(arr, target)));
 
-        System.out.println(checkPalindrome(str));
     }
 
-    private static String checkPalindrome(String str) {
-        int counter = str.length() - 1;
+    private static int[] sumOfTwo(int[] arr, int target) {
+        int[] result = new int[2];
 
-        for (int i = 0; i <= str.length() - 1; i++) {
-
-            if (str.charAt(i) !=  str.charAt(counter)) {
-                return "IT'S NOT A PALINDROME " + str;
+        for (int i = 0; i <= arr.length - 1; i++) {
+            //O(n)
+            for (int j = arr.length - 1; j >= 0; j--) {
+            //O(n2)
+                if (arr[i] + arr[j] == target) {
+                    result[0] = i;
+                    result[1] = j;
+                    return result;
+                }
             }
-            counter--;
         }
 
-        return "IT'S A PALINDROME " + str;
+        return result;
     }
+
 }
