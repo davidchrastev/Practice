@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Quick code">
-      <change afterPath="$PROJECT_DIR$/src/TwoHalf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Palindromes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Palindromes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,14 +136,10 @@
       <workItem from="1685690892719" duration="773000" />
       <workItem from="1685693043769" duration="1156000" />
       <workItem from="1685737445740" duration="1229000" />
-      <workItem from="1685865611228" duration="3658000" />
-    </task>
-    <task id="LOCAL-00062" summary="Daily challenge">
-      <created>1681235605509</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1681235605509</updated>
+      <workItem from="1685865611228" duration="3684000" />
+      <workItem from="1685869539642" duration="18000" />
+      <workItem from="1685871814292" duration="894000" />
+      <workItem from="1685976942256" duration="1616000" />
     </task>
     <task id="LOCAL-00063" summary="Daily challenge">
       <created>1681323274700</created>
@@ -485,7 +477,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685738684185</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="practice">
+      <created>1685869446171</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1685869446172</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -503,7 +502,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="not solved" />
     <MESSAGE value="More practice on LinkedList" />
     <MESSAGE value="Daily problem solve." />
     <MESSAGE value="LinkedList practice" />
@@ -528,7 +526,8 @@
     <MESSAGE value="Today's daily solve" />
     <MESSAGE value="Bug in the code - Line 7 - private static boolean isNegative = false; wasn't used correctly" />
     <MESSAGE value="Quick code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Quick code" />
+    <MESSAGE value="practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
