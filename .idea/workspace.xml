@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="practice">
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="practicing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Palindromes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoHalf.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,27 +39,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Coding/MySQL&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Coding/Practice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TwoHalf">
+  <component name="RunManager" selected="Application.Palindromes">
     <configuration name="ConcatenationOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.arrays.ConcatenationOfArray" />
       <module name="practice" />
@@ -113,8 +115,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TwoHalf" />
         <item itemvalue="Application.Palindromes" />
+        <item itemvalue="Application.TwoHalf" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ConcatenationOfArray" />
         <item itemvalue="Application.Reshape" />
@@ -140,27 +142,8 @@
       <workItem from="1685869539642" duration="18000" />
       <workItem from="1685871814292" duration="894000" />
       <workItem from="1685976942256" duration="1616000" />
-    </task>
-    <task id="LOCAL-00063" summary="Daily challenge">
-      <created>1681323274700</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1681323274701</updated>
-    </task>
-    <task id="LOCAL-00064" summary="Daily challenges">
-      <created>1681332263098</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1681332263099</updated>
-    </task>
-    <task id="LOCAL-00065" summary="Daily challenges">
-      <created>1681333180517</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1681333180517</updated>
+      <workItem from="1685986397061" duration="229000" />
+      <workItem from="1685986667900" duration="14000" />
     </task>
     <task id="LOCAL-00066" summary="Daily challenges">
       <created>1681334504204</created>
@@ -484,7 +467,28 @@
       <option name="project" value="LOCAL" />
       <updated>1685869446172</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="practicing">
+      <created>1685986457019</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1685986457019</updated>
+    </task>
+    <task id="LOCAL-00113" summary="practicing">
+      <created>1685986487076</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1685986487077</updated>
+    </task>
+    <task id="LOCAL-00114" summary="practicing">
+      <created>1685986498714</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1685986498714</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -502,7 +506,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="More practice on LinkedList" />
     <MESSAGE value="Daily problem solve." />
     <MESSAGE value="LinkedList practice" />
     <MESSAGE value="Random Problem from internet" />
@@ -527,7 +530,8 @@
     <MESSAGE value="Bug in the code - Line 7 - private static boolean isNegative = false; wasn't used correctly" />
     <MESSAGE value="Quick code" />
     <MESSAGE value="practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice" />
+    <MESSAGE value="practicing" />
+    <option name="LAST_COMMIT_MESSAGE" value="practicing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
