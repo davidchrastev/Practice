@@ -25,4 +25,36 @@ public class Basic {
 
     }
 
+    public static String dnaComplement(String s) {
+        StringBuilder output = new StringBuilder();
+
+        for (int i = 0; i < s.length(); i++) {
+            char currentSymbol = s.charAt(i);
+            char currentOppositeSymbol;
+
+            switch (currentSymbol) {
+                case 'A':
+                    currentOppositeSymbol = 'T';
+                    break;
+                case 'T':
+                    currentOppositeSymbol = 'A';
+                    break;
+                case 'C':
+                    currentOppositeSymbol = 'G';
+                    break;
+                case 'G':
+                    currentOppositeSymbol = 'C';
+                    break;
+                default:
+                    currentOppositeSymbol = currentSymbol;
+            }
+
+            output.append(currentOppositeSymbol);
+        }
+
+        return output.reverse().toString();
+    }
+
+
+
 }
