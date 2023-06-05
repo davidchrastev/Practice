@@ -55,6 +55,22 @@ public class Basic {
         return output.reverse().toString();
     }
 
+    public static long calculateAmount(List<Integer> prices) {
+        long alexSumToPay = prices.get(0);
+        int minPrice = prices.get(0);
+
+        for (int i = 1; i < prices.size(); i++) {
+            int currentPrice = prices.get(i);
+
+            int currentPriceWithDiscount = Math.max(currentPrice - minPrice, 0);
+            alexSumToPay += currentPriceWithDiscount;
+
+
+            minPrice = Math.min(minPrice, currentPrice);
+        }
+
+        return alexSumToPay;
+    }
 
 
 }
