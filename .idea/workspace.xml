@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="practice">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/RemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Coding/Practice",
+    "last_opened_file_path": "D:/Coding/Spring-Data/Spring-Data/DB-Apps-Introduction",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -148,14 +148,8 @@
       <workItem from="1686155301232" duration="32000" />
       <workItem from="1686243013312" duration="472000" />
       <workItem from="1686310817278" duration="98000" />
-      <workItem from="1686587606964" duration="408000" />
-    </task>
-    <task id="LOCAL-00073" summary="Daily challenge solve">
-      <created>1681571374071</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1681571374072</updated>
+      <workItem from="1686587606964" duration="699000" />
+      <workItem from="1686668558806" duration="33000" />
     </task>
     <task id="LOCAL-00074" summary="Daily challenge solve">
       <created>1681571553650</created>
@@ -493,7 +487,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686587756652</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="practice">
+      <created>1686588142378</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1686588142379</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
