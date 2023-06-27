@@ -11,6 +11,7 @@ public class TwoStrings {
 
         for (int i = 0; i <= haystackLength - needleLength; i++) {
             int j;
+
             for (j = 0; j < needleLength; j++) {
                 if (haystack.charAt(i + j) != needle.charAt(j)) {
                     break;
