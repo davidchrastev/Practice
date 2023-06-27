@@ -3,7 +3,9 @@ package LeetCode;
 public class TwoStrings {
     public int strStr(String haystack, String needle) {
         if (needle.isEmpty()) {
+
             return 0;
+
         }
 
         int haystackLength = haystack.length();

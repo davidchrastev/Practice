@@ -26,6 +26,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -150,20 +153,7 @@
       <workItem from="1686668558806" duration="33000" />
       <workItem from="1687701530536" duration="181000" />
       <workItem from="1687798509797" duration="165000" />
-    </task>
-    <task id="LOCAL-00076" summary="Daily challenge solve">
-      <created>1681654947540</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1681654947540</updated>
-    </task>
-    <task id="LOCAL-00077" summary="Daily challenge solve">
-      <created>1681655043189</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1681655043189</updated>
+      <workItem from="1687898000086" duration="247000" />
     </task>
     <task id="LOCAL-00078" summary="Daily challenge solve">
       <created>1681755163037</created>
@@ -494,7 +484,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687798652449</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="practice">
+      <created>1687898096970</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1687898096970</updated>
+    </task>
+    <task id="LOCAL-00126" summary="practice">
+      <created>1687898200363</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1687898200363</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
