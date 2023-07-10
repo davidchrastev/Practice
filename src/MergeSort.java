@@ -65,3 +65,4 @@ public class MergeSort {
         scanner.close();
     }
 }
+
