@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Basic algorithm">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnagramFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Anagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharacterCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWars/AddingBigNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWars/BouncingBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWars/Droot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWars/EqualSidesOfAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWars/FilterList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWars/GetMiddle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWars/IPV4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWars/IsIsogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWars/IsTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWars/IsValid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWars/MaxSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWars/NbYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWars/OddOrEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWars/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWars/RangeExtraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWars/SuperMarketQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWars/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWars/ValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWars/VowelCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/ApplesAndOranges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/BetweenTwoSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/BirthdayCandles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/CountingValleys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/CurrencyConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/DateAndTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/Diagonals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/Grades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/IsAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/IsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/JavaStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/JavaSubstrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/KangarooJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/PageCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/StairCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/Substrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/SumOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/TimeConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/UtopianTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/basicSolveTest/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/basicSolveTest/Result2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JewelsAndStones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Ancestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/BalancedParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/BinarySearchTreeInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/BinaryTreeLevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/BinaryTreePreorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Cycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/InOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Intersection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/InvertBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/LinkedListDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/MaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/MaximumDepthBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/MaximumSubArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/MergeTwoSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/PascalTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/PathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/PostOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/RansomNote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/RemoveElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Reshape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Search2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Searching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/SymmetricTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/TwoSumInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/UniqueCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/ValidAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/ValidBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/ValidSudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/IsPalindromeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkedList/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkedList/Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkedList/ConvertBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkedList/LinkedListComponents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkedList/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkedList/MergeNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkedList/TwinSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/PlusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Queens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/TwoStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/arrays/ConcatenationOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/arrays/Flowers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/arrays/Subarrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/arrays/TeemoAttacking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/Beams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/BlockSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/Convert1Dto2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/CountNegatives.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/DiagonalSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/Difference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/EqualRowAndColumn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/FlippingImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/GreatestValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/KWeakest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/LuckyNumbersInAMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/MaxIncrease.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/MaxSubMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/MaximumOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/MinimumNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/ProjectionArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/RichestCustomerWealth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/SortStudents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/SpiralOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/Submatrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/SubrectangleQueries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/TicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/UniquePaths3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/ValidMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/ValidMatrix2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/sorting/SortArrayAsc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestCommonPrefixFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestPalindromeSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaximumElementFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaximumSumSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NonRepeatingCharacterFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Palindromes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PangramChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomProblem_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SecondLargestElementFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoHalf.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2KMquTPtlRw3A33BiHbFjnWuy4Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Coding/Spring-Data/Spring-Data/DB-Apps-Introduction&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Palindromes">
+    <configuration name="ConcatenationOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.arrays.ConcatenationOfArray" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Main" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Palindromes" />
+      <module name="practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reshape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Data_Structures_1.Reshape" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.Data_Structures_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoHalf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoHalf" />
+      <module name="practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Palindromes" />
+        <item itemvalue="Application.TwoHalf" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ConcatenationOfArray" />
+        <item itemvalue="Application.Reshape" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="" />
+      <created>1673795024064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673795024064</updated>
+      <workItem from="1683648423221" duration="643000" />
+      <workItem from="1683735355594" duration="71000" />
+      <workItem from="1684836677208" duration="14000" />
+      <workItem from="1684850552406" duration="72000" />
+      <workItem from="1685690892719" duration="773000" />
+      <workItem from="1685693043769" duration="1156000" />
+      <workItem from="1685737445740" duration="1229000" />
+      <workItem from="1685865611228" duration="3684000" />
+      <workItem from="1685869539642" duration="18000" />
+      <workItem from="1685871814292" duration="894000" />
+      <workItem from="1685976942256" duration="1616000" />
+      <workItem from="1685986397061" duration="229000" />
+      <workItem from="1685986667900" duration="14000" />
+      <workItem from="1685987071251" duration="131000" />
+      <workItem from="1686055254004" duration="32000" />
+      <workItem from="1686066738555" duration="337000" />
+      <workItem from="1686155301232" duration="32000" />
+      <workItem from="1686243013312" duration="472000" />
+      <workItem from="1686310817278" duration="98000" />
+      <workItem from="1686587606964" duration="699000" />
+      <workItem from="1686668558806" duration="33000" />
+      <workItem from="1687701530536" duration="181000" />
+      <workItem from="1687798509797" duration="165000" />
+      <workItem from="1687898000086" duration="247000" />
+      <workItem from="1687898272676" duration="228000" />
+      <workItem from="1687982455759" duration="673000" />
+      <workItem from="1688222643293" duration="477000" />
+      <workItem from="1688318735643" duration="325000" />
+      <workItem from="1688407373696" duration="15000" />
+      <workItem from="1688416970604" duration="118000" />
+      <workItem from="1688495677193" duration="74000" />
+      <workItem from="1688579396582" duration="98000" />
+      <workItem from="1688673620859" duration="77000" />
+      <workItem from="1688761128680" duration="69000" />
+      <workItem from="1688844135288" duration="61000" />
+      <workItem from="1688931922680" duration="88000" />
+      <workItem from="1689003466643" duration="65000" />
+    </task>
+    <task id="LOCAL-00090" summary="Daily challenge solve">
+      <created>1682164659810</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1682164659810</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Daily challenge solve">
+      <created>1682164697206</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1682164697206</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Daily challenge solve">
+      <created>1682164850946</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1682164850946</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Daily challenge solve">
+      <created>1682164938248</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1682164938248</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Daily challenge solve">
+      <created>1682256303321</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1682256303321</updated>
+    </task>
+    <task id="LOCAL-00095" summary="Daily challenge solve">
+      <created>1682256366352</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1682256366352</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Daily challenge solve">
+      <created>1682256541212</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1682256541212</updated>
+    </task>
+    <task id="LOCAL-00097" summary="    Daily challenge solve">
+      <created>1683217759460</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1683217759461</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Easy task.">
+      <created>1683305461445</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1683305461446</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Easy task.">
+      <created>1683305472561</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1683305472561</updated>
+    </task>
+    <task id="LOCAL-00100" summary="Really nice problem started with really messed up code but in the time i refactored parts and it became cleaner">
+      <created>1683307541672</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1683307541672</updated>
+    </task>
+    <task id="LOCAL-00101" summary="Hard problem will come up with solution eventually">
+      <created>1683391973524</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1683391973525</updated>
+    </task>
+    <task id="LOCAL-00102" summary="Today's solve">
+      <created>1683392366295</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1683392366295</updated>
+    </task>
+    <task id="LOCAL-00103" summary="Today's solve">
+      <created>1683392461544</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1683392461545</updated>
+    </task>
+    <task id="LOCAL-00104" summary="Today's solve">
+      <created>1683392740757</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1683392740757</updated>
+    </task>
+    <task id="LOCAL-00105" summary="Today's solve">
+      <created>1683477793299</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1683477793300</updated>
+    </task>
+    <task id="LOCAL-00106" summary="Couldn't come up with my own solution and I found this">
+      <created>1683477998442</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1683477998442</updated>
+    </task>
+    <task id="LOCAL-00107" summary="Today's daily solve">
+      <created>1683566770861</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1683566770862</updated>
+    </task>
+    <task id="LOCAL-00108" summary="Today's daily solve">
+      <created>1683649040400</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1683649040401</updated>
+    </task>
+    <task id="LOCAL-00109" summary="Bug in the code - Line 7 - private static boolean isNegative = false; wasn't used correctly">
+      <created>1685737898736</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1685737898737</updated>
+    </task>
+    <task id="LOCAL-00110" summary="Quick code">
+      <created>1685738684185</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1685738684185</updated>
+    </task>
+    <task id="LOCAL-00111" summary="practice">
+      <created>1685869446171</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1685869446172</updated>
+    </task>
+    <task id="LOCAL-00112" summary="practicing">
+      <created>1685986457019</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1685986457019</updated>
+    </task>
+    <task id="LOCAL-00113" summary="practicing">
+      <created>1685986487076</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1685986487077</updated>
+    </task>
+    <task id="LOCAL-00114" summary="practicing">
+      <created>1685986498714</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1685986498714</updated>
+    </task>
+    <task id="LOCAL-00115" summary="practicing">
+      <created>1685987095105</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1685987095105</updated>
+    </task>
+    <task id="LOCAL-00116" summary="practicing">
+      <created>1686066794376</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1686066794376</updated>
+    </task>
+    <task id="LOCAL-00117" summary="practicing">
+      <created>1686243059541</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1686243059541</updated>
+    </task>
+    <task id="LOCAL-00118" summary="practicing">
+      <created>1686243098729</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1686243098729</updated>
+    </task>
+    <task id="LOCAL-00119" summary="practicing">
+      <created>1686243469846</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1686243469846</updated>
+    </task>
+    <task id="LOCAL-00120" summary="practicing with linkedlist">
+      <created>1686498264930</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1686498264930</updated>
+    </task>
+    <task id="LOCAL-00121" summary="practice">
+      <created>1686587756652</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1686587756652</updated>
+    </task>
+    <task id="LOCAL-00122" summary="practice">
+      <created>1686588142378</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1686588142379</updated>
+    </task>
+    <task id="LOCAL-00123" summary="practice">
+      <created>1687701680131</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1687701680131</updated>
+    </task>
+    <task id="LOCAL-00124" summary="practice">
+      <created>1687798652449</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1687798652449</updated>
+    </task>
+    <task id="LOCAL-00125" summary="practice">
+      <created>1687898096970</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1687898096970</updated>
+    </task>
+    <task id="LOCAL-00126" summary="practice">
+      <created>1687898200363</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1687898200363</updated>
+    </task>
+    <task id="LOCAL-00127" summary="practice">
+      <created>1687898444658</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1687898444658</updated>
+    </task>
+    <task id="LOCAL-00128" summary="practice">
+      <created>1687983073570</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1687983073570</updated>
+    </task>
+    <task id="LOCAL-00129" summary="Basic algorithm">
+      <created>1688222873298</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1688222873298</updated>
+    </task>
+    <task id="LOCAL-00130" summary="Basic algorithm">
+      <created>1688223018248</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1688223018248</updated>
+    </task>
+    <task id="LOCAL-00131" summary="Basic algorithm">
+      <created>1688318799467</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1688318799468</updated>
+    </task>
+    <task id="LOCAL-00132" summary="Basic algorithm">
+      <created>1688417062926</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1688417062926</updated>
+    </task>
+    <task id="LOCAL-00133" summary="Basic algorithm">
+      <created>1688495732192</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1688495732192</updated>
+    </task>
+    <task id="LOCAL-00134" summary="Basic algorithm">
+      <created>1688579452771</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1688579452772</updated>
+    </task>
+    <task id="LOCAL-00135" summary="Basic algorithm">
+      <created>1688673674252</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1688673674253</updated>
+    </task>
+    <task id="LOCAL-00136" summary="Basic algorithm">
+      <created>1688761180350</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1688761180350</updated>
+    </task>
+    <task id="LOCAL-00137" summary="Basic algorithm">
+      <created>1688844182391</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1688844182391</updated>
+    </task>
+    <task id="LOCAL-00138" summary="Basic algorithm">
+      <created>1688931972216</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1688931972216</updated>
+    </task>
+    <option name="localTasksCounter" value="139" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Random Problem from internet" />
+    <MESSAGE value="Really nice problem with matrix" />
+    <MESSAGE value="not finding a solution" />
+    <MESSAGE value="HackerRank certificate solutions" />
+    <MESSAGE value="Fast way to find duplicates" />
+    <MESSAGE value="largest subarr" />
+    <MESSAGE value="Solution day 2" />
+    <MESSAGE value="Daily challenge" />
+    <MESSAGE value="Daily challenges" />
+    <MESSAGE value="Daily challenge solve, sudoku problem couldn't come up with solution" />
+    <MESSAGE value="Daily challenge solve," />
+    <MESSAGE value="Daily challenge solve" />
+    <MESSAGE value="    Daily challenge solve" />
+    <MESSAGE value="Easy task." />
+    <MESSAGE value="Really nice problem started with really messed up code but in the time i refactored parts and it became cleaner" />
+    <MESSAGE value="Hard problem will come up with solution eventually" />
+    <MESSAGE value="Today's solve" />
+    <MESSAGE value="Couldn't come up with my own solution and I found this" />
+    <MESSAGE value="Today's daily solve" />
+    <MESSAGE value="Bug in the code - Line 7 - private static boolean isNegative = false; wasn't used correctly" />
+    <MESSAGE value="Quick code" />
+    <MESSAGE value="practicing" />
+    <MESSAGE value="practicing with linkedlist" />
+    <MESSAGE value="practice" />
+    <MESSAGE value="Basic algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic algorithm" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/matrix/GreatestValue.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/arrays/Subarrays.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Practice$MinimumSumOfFourDigits.ic" NAME="MinimumSumOfFourDigits Coverage Results" MODIFIED="1679267346645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>LeetCode.sorting.*</FILTER>
+    </SUITE>
+  </component>
+</project>
