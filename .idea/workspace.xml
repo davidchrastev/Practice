@@ -4,157 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Basic algorithm">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnagramFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Anagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharacterCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeWars/AddingBigNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeWars/BouncingBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeWars/Droot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeWars/EqualSidesOfAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeWars/FilterList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeWars/GetMiddle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeWars/IPV4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeWars/IsIsogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeWars/IsTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeWars/IsValid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeWars/MaxSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeWars/NbYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeWars/OddOrEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeWars/Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeWars/RangeExtraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeWars/SuperMarketQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeWars/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeWars/ValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeWars/VowelCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/ApplesAndOranges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/BetweenTwoSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/BirthdayCandles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/CountingValleys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/CurrencyConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/DateAndTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/Diagonals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/Grades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/IsAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/IsPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/JavaStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/JavaSubstrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/KangarooJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/MinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/PageCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/StairCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/Substrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/SumOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/TimeConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/UtopianTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/basicSolveTest/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/basicSolveTest/Result2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JewelsAndStones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Ancestor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/BalancedParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/BinarySearchTreeInsert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/BinaryTreeLevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/BinaryTreePreorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Cycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Duplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/InOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Intersection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/InvertBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/LinkedListDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/MaxProfit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/MaximumDepthBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/MaximumSubArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Merge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/MergeTwoSortedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/PascalTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/PathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/PostOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/RansomNote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/RemoveElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Reshape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Search2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/Searching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/SingleNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/SymmetricTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/TwoSumInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/UniqueCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/ValidAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/ValidBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Data_Structures_1/ValidSudoku.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/GroupAnagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/IsPalindromeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkedList/AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkedList/Browser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkedList/ConvertBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkedList/LinkedListComponents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkedList/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkedList/MergeNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkedList/TwinSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/PlusOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Queens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/TwoStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/arrays/ConcatenationOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/arrays/Flowers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/arrays/Subarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/arrays/TeemoAttacking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/Beams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/BlockSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/Convert1Dto2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/CountNegatives.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/DiagonalSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/Difference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/EqualRowAndColumn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/FlippingImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/GreatestValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/KWeakest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/LuckyNumbersInAMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/MaxIncrease.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/MaxSubMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/MaximumOnes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/MinimumNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/ProjectionArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/RichestCustomerWealth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/SortStudents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/SpiralOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/Submatrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/SubrectangleQueries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/TicTacToe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/UniquePaths3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/ValidMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/matrix/ValidMatrix2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/sorting/SortArrayAsc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LongestCommonPrefixFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LongestPalindromeSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaximumElementFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaximumSumSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NonRepeatingCharacterFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Palindromes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PangramChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RandomProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RandomProblem_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SecondLargestElementFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoHalf.java" afterDir="false" />
+    <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Example of merge sort">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -318,20 +169,7 @@
       <workItem from="1688844135288" duration="61000" />
       <workItem from="1688931922680" duration="88000" />
       <workItem from="1689003466643" duration="65000" />
-    </task>
-    <task id="LOCAL-00090" summary="Daily challenge solve">
-      <created>1682164659810</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1682164659810</updated>
-    </task>
-    <task id="LOCAL-00091" summary="Daily challenge solve">
-      <created>1682164697206</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1682164697206</updated>
+      <workItem from="1689003567477" duration="501000" />
     </task>
     <task id="LOCAL-00092" summary="Daily challenge solve">
       <created>1682164850946</created>
@@ -662,7 +500,21 @@
       <option name="project" value="LOCAL" />
       <updated>1688931972216</updated>
     </task>
-    <option name="localTasksCounter" value="139" />
+    <task id="LOCAL-00139" summary="commit">
+      <created>1689003722670</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1689003722670</updated>
+    </task>
+    <task id="LOCAL-00140" summary="Example of merge sort">
+      <created>1689003877916</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1689003877916</updated>
+    </task>
+    <option name="localTasksCounter" value="141" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -680,8 +532,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Random Problem from internet" />
-    <MESSAGE value="Really nice problem with matrix" />
     <MESSAGE value="not finding a solution" />
     <MESSAGE value="HackerRank certificate solutions" />
     <MESSAGE value="Fast way to find duplicates" />
@@ -705,7 +555,9 @@
     <MESSAGE value="practicing with linkedlist" />
     <MESSAGE value="practice" />
     <MESSAGE value="Basic algorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic algorithm" />
+    <MESSAGE value="commit" />
+    <MESSAGE value="Example of merge sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Example of merge sort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
