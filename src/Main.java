@@ -14,6 +14,8 @@ public class Main {
         //onezeropluseight
         //twozeroplusonezero
         //twozeroplusonezerominustwozero
+	//twozeropluspluszeromustwozero
+	//onetwozerominusthreeeight
     }
 
     public static String StringChallenge(String str) {
