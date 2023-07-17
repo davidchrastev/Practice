@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99598a97-08df-4133-9625-0fe93d5d56c9" name="Changes" comment="Basic algorithm">
-      <change afterPath="$PROJECT_DIR$/src/FirstNonRepeatedCharacter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +60,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Palindromes">
+  <component name="RunManager" selected="Application.DemoApp">
     <configuration name="ConcatenationOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.arrays.ConcatenationOfArray" />
       <module name="practice" />
@@ -71,6 +70,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoApp" />
+      <module name="practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -95,19 +101,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reshape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Data_Structures_1.Reshape" />
-      <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.Data_Structures_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TwoHalf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TwoHalf" />
       <module name="practice" />
@@ -117,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoApp" />
         <item itemvalue="Application.Palindromes" />
         <item itemvalue="Application.TwoHalf" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ConcatenationOfArray" />
-        <item itemvalue="Application.Reshape" />
       </list>
     </recent_temporary>
   </component>
@@ -170,14 +163,8 @@
       <workItem from="1688844135288" duration="61000" />
       <workItem from="1689097212591" duration="167000" />
       <workItem from="1689189503444" duration="159000" />
-      <workItem from="1689271893559" duration="313000" />
-    </task>
-    <task id="LOCAL-00091" summary="Daily challenge solve">
-      <created>1682164697206</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1682164697206</updated>
+      <workItem from="1689271893559" duration="338000" />
+      <workItem from="1689354222166" duration="112000" />
     </task>
     <task id="LOCAL-00092" summary="Daily challenge solve">
       <created>1682164850946</created>
@@ -515,7 +502,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689189600278</updated>
     </task>
-    <option name="localTasksCounter" value="140" />
+    <task id="LOCAL-00140" summary="Basic algorithm">
+      <created>1689272211262</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1689272211262</updated>
+    </task>
+    <option name="localTasksCounter" value="141" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
